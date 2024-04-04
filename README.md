@@ -1,17 +1,14 @@
 <h2 align="left">Hi 👋! My name is Hassan and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with JavaScript</h2>
 
-###
 <div align="left">
-- 🌱 I’m currently learning **threejs**
+  <p>- 🌱 I’m currently learning **threejs**</p>
+  <p>- 💬 Ask me about **React , Nest**</p>
+  <p>- 📫 How to reach me **hassanshahzadu@gmail.com**</p>
+  <p>- ⚡ Fun fact **React didn't have a compiler until v19**</p>
+</div>
 
-- 💬 Ask me about **React , Nest**
-
-- 📫 How to reach me **hassanshahzadu@gmail.com**
-
-- ⚡ Fun fact **React did'nt have a compiler until v19**
-  </div>
 <img align="right" height="150" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-###
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hassanshahzadse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
