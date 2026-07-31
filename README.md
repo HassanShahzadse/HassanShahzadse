@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.toptal.com/developers/resume/hassan-shahzad#mbkE0K" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/HassanShahzadse/HassanShahzadse/main/top3-badge.svg" alt="Top 3% Talent - Vetted by Toptal" width="220" />
   </a>
-</div>
+</div> -->
 
 <h2 align="left">Hi 👋! My name is Hassan and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with JavaScript</h2>
 
